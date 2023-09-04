@@ -203,29 +203,7 @@ button.submit-button:hover {
         margin-top: 20px;
     }
 
-    .left-column section:nth-child(1) {
-        order: 1;
-    }
-
-    .left-column section:nth-child(2) {
-        order: 3;
-    }
-
-    .left-column section:nth-child(3) {
-        order: 5;
-    }
-
-    .right-column section:nth-child(1) {
-        order: 2;
-    }
-
-    .right-column section:nth-child(2) {
-        order: 4;
-    }
-
-    .right-column section:nth-child(3) {
-        order: 6;
-    }
+   
 
     .center-column {
         order: 7;
